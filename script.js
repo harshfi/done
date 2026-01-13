@@ -1,3 +1,3 @@
 
-let arr=[2,3,4];
+let arr=[2,5,4];
 console.log(arr);
